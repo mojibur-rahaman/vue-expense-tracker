@@ -1,14 +1,15 @@
-# learn-vue
+# learn-vue-3
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Store Transaction
+I'm using LocalStroage for storing user's data
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Chart (pie)
+On this expense tracker project, I use vue-chartJs to show income and expense
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Use Case
+When you are trying to monitor your finances, it helps to provide clear information about transactions. It helps to spend your money right area.  
 
 ## Project Setup
 
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+## Live Demo
+
+Remember expense is a negative(-) value (https://expense.itthadi.com).
+salary, 30000,  and House rent, -18500 
